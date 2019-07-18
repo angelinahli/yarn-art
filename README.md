@@ -33,3 +33,11 @@
 
 #### Proof of Concept
 * App (without memory) that accepts an image file, a swatch, and some basic parameters (size of resulting piece) and converts it into a template with colors in the grid.
+
+
+#### Other Notes
+* Test Image Attributions:
+    * https://pixabay.com/illustrations/cactus-torn-green-flower-4338616/
+    * https://pixabay.com/photos/abstract-art-works-of-art-2675672/
+    * https://pixabay.com/illustrations/clipart-fish-sea-water-swim-3418189/
+    * https://pixabay.com/vectors/feather-silhouette-sticker-clipart-2781343/
